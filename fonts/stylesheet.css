@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroupCond-Bold.woff2') format('woff2'),
+        url('VTBGroupCond-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-Bold.woff2') format('woff2'),
+        url('VTBGroup-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-DemiBoldOblique.woff2') format('woff2'),
+        url('VTBGroup-DemiBoldOblique.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-BookOblique.woff2') format('woff2'),
+        url('VTBGroup-BookOblique.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroupCond-Book.woff2') format('woff2'),
+        url('VTBGroupCond-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-LightOblique.woff2') format('woff2'),
+        url('VTBGroup-LightOblique.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroupCond-DemiBold.woff2') format('woff2'),
+        url('VTBGroupCond-DemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-DemiBold.woff2') format('woff2'),
+        url('VTBGroup-DemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-Light.woff2') format('woff2'),
+        url('VTBGroup-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-BoldOblique.woff2') format('woff2'),
+        url('VTBGroup-BoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-Book.woff2') format('woff2'),
+        url('VTBGroup-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroupCond-Light.woff2') format('woff2'),
+        url('VTBGroupCond-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-ExtraBold.woff2') format('woff2'),
+        url('VTBGroup-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroupCond-ExtraBold.woff2') format('woff2'),
+        url('VTBGroupCond-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroup-ExtraBoldOblique.woff2') format('woff2'),
+        url('VTBGroup-ExtraBoldOblique.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VTB Group';
+    src: url('VTBGroupUI-SemiBold.woff2') format('woff2'),
+        url('VTBGroupUI-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
